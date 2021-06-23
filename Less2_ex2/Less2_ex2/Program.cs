@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Less2_ex2
+namespace Less2_Ex2
 {
     class Program
     {
